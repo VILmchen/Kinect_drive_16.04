@@ -1,0 +1,2 @@
+export OPENNI2_INCLUDE=/home/mc/Documents/config/openni2/OpenNI2/Packaging/Linux/Include
+export OPENNI2_REDIST=/home/mc/Documents/config/openni2/OpenNI2/Packaging/Linux/Redist
